@@ -1,0 +1,3 @@
+[submodule "mobules/happyEXT"]
+	path = mobules/happyEXT
+	url = git@github.com:code-in-time/happyEXT.git
