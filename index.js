@@ -1,5 +1,5 @@
 // This is the main project filethis is awesome.
 
-function () {
-    console.log('test');
+function one() {
+    console.log('test one');
 }
